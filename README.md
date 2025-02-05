@@ -1,13 +1,14 @@
 ## Data Analysis and Visualization Assignments (TTC8040) - Spring 2025
 
-Fill in your information first.
+IMPORTANT: Fill in your information first (remove TODOs and add your name and email).
 
 * **TODO: YOUR NAME** (The same as your name in JAMK's system) 
 * **TTC8040-3013**
 * **TODO:YOUR EMAIL at JAMK**
 
 Note! Remember to make the repository **Private** immediately and give **Developer rights** to _Juha_.
-* if your repository is not Private, the completion of the course will be rejected on that basis.
+* if your repository is **not Private**, the completion of the course will be rejected on that basis.
+* i.e. internal or public repositories are prohibited
 
 Note! Keep the README up to date and, if necessary, link the new files that you have renamed in the course assignments.
 
@@ -20,13 +21,14 @@ Note! Keep the README up to date and, if necessary, link the new files that you 
 * [Assignment 5](assignments/assignments_05.ipynb)
 * [Assignment 6](assignments/assignments_06.ipynb)
 
-Implement all assignment answers directly into Jupyter Notebook documents. 
+Implement all assignment answers directly into Jupyter Notebook documents.
 * Always run Notebook documents before updating to the repository 
 * Always check that the _Output_ cells are visible also in the repository.
+* Also check that the assert tests do not give any errors.
 
 ### Assignment monitoring
 
-Remember also to update Assignment monitoring file when you update your new assignments to the repository.
+Keep a record of the assignments you complete. Remember to update **Assignment monitoring** file when you update your new assignments to the repository.
     
 * [Assignment monitoring](points.md)
 

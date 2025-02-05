@@ -2,7 +2,7 @@
 
 You should monitor the progress of the assignments yourself by marking them as done and calculating the points for the individual tasks.
 * If the task has been successfully completed, mark an `X`.
-* If the task has nearly OK completed, mark an `/`.
+* If the task has nearly OK completed, mark an `?`.
 * otherwise mark `-` 
 
 Your contact details:
@@ -48,11 +48,11 @@ Your contact details:
 
 ## Example 
 
-**Note!** _This is just an example. You can remove this!_
+**Note!** _This is just an example. You can remove this from your forked repository!_
 
 In this example, you have successfully completed assignments 1.1, 1.2 and 1.4 and nearly completed assignment 1.5. 
-So total points are 3.5/5p.
+So total points you mark are 3.5p of 5p.
 
 | **Assignment** | 1.1 | 1.2 | 1.3 | 1.4 | 1.5 | total |
 |:---------------|:---:|:---:|:---:|:---:|:---:|:-----:|
-| **Done:**      |  X  |  X  |  -  |  X  |  /  |  3.5  |
+| **Done:**      |  X  |  X  |  -  |  X  |  ?  |  3.5  |
