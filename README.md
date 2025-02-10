@@ -2,9 +2,9 @@
 
 IMPORTANT: Fill in your information first (remove TODOs and add your name and email).
 
-* **TODO: YOUR NAME** (The same as your name in JAMK's system) 
+* **JAKA COSIC HÄMÄLÄINEN** (The same as your name in JAMK's system) 
 * **TTC8040-3013**
-* **TODO:YOUR EMAIL at JAMK**
+* **AA6111@STUDENT.JAMK.FI**
 
 Note! Remember to make the repository **Private** immediately and give **Developer rights** to _Juha_.
 * if your repository is **not Private**, the completion of the course will be rejected on that basis.
