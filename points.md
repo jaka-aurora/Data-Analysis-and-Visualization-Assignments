@@ -6,8 +6,8 @@ You should monitor the progress of the assignments yourself by marking them as d
 * otherwise mark `-` 
 
 Your contact details:
-* **TODO: YOUR NAME**  
-* **TODO:YOUR EMAIL at JAMK**
+* **JAKA COSIC HÄMÄLÄINEN**  
+* **AA6111@STUDENT.JAMK.FI**
 
 ## Assignment 1 
 
