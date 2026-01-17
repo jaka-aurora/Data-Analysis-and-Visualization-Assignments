@@ -26,8 +26,8 @@ Each assignment folder includes a Jupyter Notebook (.ipynb) with:
 * [Assignment 5](assignments/assignments_05.ipynb)
 * [Assignment 6](assignments/assignments_06.ipynb)
 
-**README.md**
-**requirements.txt**
+**README.md** - This overview and usage instructions  
+**requirements.txt** - Contains libraries used in the notebooks
 
 
 
